@@ -1,10 +1,10 @@
-# Unit 13: MVC
+# Unit 13: MVC - Burger Logger App
 
 # Node Express Handlebars
 https://github.com/abdinajibliban/burger
 # Description
-This is an application that lets users input the name of the burgers they'd want to eat. 
-Once submitted, the burger name appears on the left side. After it is devoured, it appears on the right side. 
+This is an application that lets users input the name of the burger(s) they'd want to eat. 
+Once submitted, the burger name appears on the left side. After it is devoured, it appears on the right side of the page. 
 This app is deployed on heroku.
 # Installation
 Here are the dependencies you need to install to run the application: mysql, node, express, express-handlebars
